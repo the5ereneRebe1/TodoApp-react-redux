@@ -1,0 +1,31 @@
+.AddTodo {
+    margin:2px 20rem;
+    display: flex;
+}
+
+.AddTodo_input{
+    width: 70%;
+    padding: 1rem;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    border: 0;
+    border-radius: 10px;
+    font-size: 1rem;
+    margin: 2rem;
+    outline: 0;
+}
+.AddTodo_button {
+    align-items: center;
+    justify-content: center;
+    width: 12.5rem;
+    margin: 2rem;
+    padding: 1rem;
+    background-color: #3498db;
+    border: none;
+    border-radius: 0.3125rem;
+    box-shadow: 0 12px 24px 0 rgba(0, 0, 0, 0.2);
+    color: white;
+    font-weight: 300;
+    text-transform: uppercase;
+    overflow: hidden;
+}

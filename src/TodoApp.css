@@ -1,0 +1,13 @@
+.todo-app {
+    font-family: sans-serif;
+    display: flex;
+    flex-direction: column;
+    background: #E8EBF3;
+    height: 100vh;
+    font: 400 16px 'Varela Round', sans-serif;
+  }
+  .header {
+    margin: 1rem auto;
+    height: 100px;
+  }
+  
